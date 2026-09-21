@@ -28,5 +28,8 @@ _Estoy en cursiva usando_ '_'
 
 # Imagen local
 
-![Imagen de almeria local](/imagenes/perro.jpeg)
+![Imagen de perro local](/imagenes/perro.jpeg)
 
+# Enlace a otro archivo .md
+
+[Nuevo archivo .md](/documento.md)
